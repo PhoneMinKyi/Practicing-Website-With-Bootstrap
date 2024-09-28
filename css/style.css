@@ -1,0 +1,10 @@
+.bg-black{
+    background: black!important;
+}
+
+body{
+    background: url(../imgs/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 30%;
+}
